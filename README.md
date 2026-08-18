@@ -28,6 +28,7 @@ const mmarhror = {
 };
 ```
 
-## Languages
+## `Languages`
 
-![Top Languages](./profile/top-langs.svg)
+<!-- LANGUAGES:START -->
+<!-- LANGUAGES:END -->
