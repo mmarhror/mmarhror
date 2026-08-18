@@ -1,16 +1,33 @@
-## Hi there 👋
+## A little more about me
 
-<!--
-**mmarhror/mmarhror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const mmarhror = {
+  name: "Mohammed Marhror",
 
-Here are some ideas to get you started:
+  languages: ["Rust", "Go", "JavaScript", "TypeScript"],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  interestedIn: [
+    "systems programming",
+    "Unix",
+    "backend development",
+    "algorithms",
+    "web development",
+  ],
+
+  technologies: {
+    systems: ["Rust", "C", "Linux"],
+    backend: ["Go", "Node.js"],
+    frontend: ["JavaScript", "TypeScript", "Next.js"],
+    databases: ["SQLite", "PostgreSQL"],
+    tools: ["Git", "Docker"],
+  },
+
+  currentlyLearning: ["Rust", "systems programming", "software architecture"],
+
+  motto: "Making computers do things.",
+};
+```
+
+## Languages
+
+![Top Languages](./profile/top-langs.svg)
