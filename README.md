@@ -31,4 +31,15 @@ const mmarhror = {
 ## `Languages`
 
 <!-- LANGUAGES:START -->
+
+```text
+languages
+
+Go            ██████░░░░░░░░░░░░░░   31.0%
+JavaScript    █████░░░░░░░░░░░░░░░   23.9%
+CSS           ███░░░░░░░░░░░░░░░░░   17.4%
+Rust          ███░░░░░░░░░░░░░░░░░   16.7%
+TypeScript    █░░░░░░░░░░░░░░░░░░░    6.7%
+HTML          █░░░░░░░░░░░░░░░░░░░    3.9%
+```
 <!-- LANGUAGES:END -->
